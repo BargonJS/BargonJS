@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BargonJS
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Phyton, HTML, CSS and JavaScript
 - 😄 Pronouns: he/him
 
 <!---
